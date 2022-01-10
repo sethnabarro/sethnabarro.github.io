@@ -13,7 +13,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning PhD student at Imperial College London, supervised by [Mark van der Wilk](https://mvdw.uk/) and [Andrew Davison](https://www.doc.ic.ac.uk/~ajd/). My research interests include Bayesian deep learning, Bayesian model selection, local and distributed learning methods, generative modelling.
+I am a machine learning PhD student at Imperial College London, supervised by [Mark van der Wilk](https://mvdw.uk/) and [Andrew Davison](https://www.doc.ic.ac.uk/~ajd/). 
+
+I studied physics at Imperial for my undergrad degree, followed by a master's degree in computational statistics and machine learning at University College London. Before starting my PhD I was a research engineer at [Graphcore](https://www.graphcore.ai/), looking at hardware acceleration of probabilistic machine learning. 
+
+Among other things I am interested in Bayesian deep learning, Bayesian model selection, local and distributed learning methods, generative modelling.
 
 {% comment %}
 
