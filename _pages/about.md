@@ -1,16 +1,22 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description:
 
 profile:
   align: right
-  image: mushot_light.jpg
+  image: pic.jpg
 
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a machine learning PhD student at Imperial College London, supervised by [Mark van der Wilk](https://mvdw.uk/) and [Andrew Davison](https://www.doc.ic.ac.uk/~ajd/). 
