@@ -4,4 +4,4 @@ date: 2023-05-26 13:00:00-0000
 inline: true
 ---
 
-I was identified as a **Top Reviewer** for UAI 2023.
+I was chosen as a **Top Reviewer** for UAI 2023.
