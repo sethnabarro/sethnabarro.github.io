@@ -21,7 +21,7 @@ latest_posts:
 
 I am a machine learning PhD student at Imperial College London, supervised by [Mark van der Wilk](https://mvdw.uk/) and [Andrew Davison](https://www.doc.ic.ac.uk/~ajd/). 
 
-I studied physics at Imperial for my undergrad degree, and did a master's in computational statistics and machine learning at University College London. Before starting my PhD I was a research engineer at [Graphcore](https://www.graphcore.ai/), looking at hardware acceleration of probabilistic machine learning. I spent some time as a research intern at Google DeepMind during my PhD.
+I studied physics at Imperial for my undergrad degree, and did a master's in computational statistics and machine learning at University College London. Before starting my PhD I was a research engineer at [Graphcore](https://www.graphcore.ai/), looking at hardware acceleration of probabilistic machine learning. More recently, I spent some time as a research intern at Google DeepMind.
 
 Among other things, I am interested in local learning rules for deep learning, continual learning, multi-robot learning, and generative modelling.
 
