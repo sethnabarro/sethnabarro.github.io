@@ -11,7 +11,7 @@ profile:
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -21,9 +21,9 @@ latest_posts:
 
 I am a machine learning PhD student at Imperial College London, supervised by [Mark van der Wilk](https://mvdw.uk/) and [Andrew Davison](https://www.doc.ic.ac.uk/~ajd/). 
 
-I studied physics at Imperial for my undergrad degree, followed by a master's degree in computational statistics and machine learning at University College London. Before starting my PhD I was a research engineer at [Graphcore](https://www.graphcore.ai/), looking at hardware acceleration of probabilistic machine learning. 
+I studied physics at Imperial for my undergrad degree, and did a master's in computational statistics and machine learning at University College London. Before starting my PhD I was a research engineer at [Graphcore](https://www.graphcore.ai/), looking at hardware acceleration of probabilistic machine learning. I spent some time as a research intern at Google DeepMind during my PhD.
 
-Among other things I am interested in Bayesian deep learning, Bayesian model selection, local and distributed learning methods, generative modelling.
+Among other things, I am interested in local learning rules for deep learning, continual learning, multi-robot learning, and generative modelling.
 
 {% comment %}
 
